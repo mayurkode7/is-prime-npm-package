@@ -1,0 +1,24 @@
+{
+  "name": "is-prime-npm-package",
+  "version": "1.0.0",
+  "description": "To check if given number is prime or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurkode7/is-prime-npm-package.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Prime",
+    "Number"
+  ],
+  "author": "Mayur Kode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayurkode7/is-prime-npm-package/issues"
+  },
+  "homepage": "https://github.com/mayurkode7/is-prime-npm-package#readme"
+}
