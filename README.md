@@ -2,6 +2,10 @@
 
 NPM package to check if given number is prime or not
 
+# Demo 
+
+Link: https://stackblitz.com/edit/js-lfhgdv?file=index.js
+
 # Installation
 
 Command :
